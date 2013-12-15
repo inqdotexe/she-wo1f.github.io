@@ -1,4 +1,4 @@
 she-wo1f.github.io
 ==================
-# Заголовок 1
-## Заголовок исчо раз
+# Header 1
+## Header once again
